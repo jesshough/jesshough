@@ -14,7 +14,7 @@ Some of my main interests in the tech industry revolve around web development an
 I'm currently diving deeper into AI topics such as LLMs, prompt engineering, recommendation systems, and common AI tools/libraries.
 
 ### Projects:
-[Coming Soon] Stay tuned for updates on my latest projects!
+[GPT Override Project](https://github.com/jesshough/gptOverride_v2)
 
 ### Experience:
 - **Data Analyst** at _3M:_
